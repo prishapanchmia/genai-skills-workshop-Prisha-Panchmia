@@ -1,0 +1,8 @@
+google-cloud-bigquery
+google-cloud-logging
+google-generativeai
+vertexai
+flask
+requests
+pytest
+pandas
