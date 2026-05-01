@@ -2,7 +2,7 @@
 
 ## Architecture
 
-![Architecture Diagram](task5/architecture_diagram.png)
+![Architecture Diagram](architecture_diagram.png)
 
 ---
 
